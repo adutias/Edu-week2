@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+    <tittle>The Ugandan Rolex</tittle>
+<h1>My favourite food's ingredients</h1>
+  <p>This is a very popular street food in uganda, started in the capital Kampala but has 
+      spread to the rest of the country. It is a regular chapati rolled with an egg or 2
+    and sliced tomatoes and onions </p>
+  <ul>
+    <li>Wheat flour</li>
+    <li>Eggs</li>
+    <li>Tomatoes</li>
+    <li>Onions</li>
+    <li>Cooking oil</li>
+  </ul>
+  <h2>The preparation process</h2>
+  <ol>
+    <li>Pour the wheat flour, salt, and ghee into a bowl and mix the 
+      ingredients together</li>
+    <li>Add ½ a cup of water to the flour mixture and stir the mixture until 
+      it's soft and supple.</li>
+    <li>Add the remaining water slowly, stirring until it's fully combined.</li>
+    <li>Place the dough into an oiled bowl and cover it for 25 minutes.✔️</li>
+    <li>Divide the dough into 10-12 small balls, and dip them into flour.</li>
+    <li>Roll the dough with a rolling pin until the balls resemble thin, 
+      round pancakes 😁.</li>
+    <li>Heat a heavy frying pan, tawa, or griddle over medium heat and cook 
+      each chapati on both sides 😍</li>
+    <li>Beat 2 eggs with tomatoes and onions mixed together and fry on the same
+      pan</li>
+    <li>Place the egg onto the chapati and make a roll</li>
+    <li>Serve 😋</li>
+  </ol>
+  <ul>
+  <li><img src= "https://i.imgur.com/uSWnjiw.jpg"alt="Ugandan Rolex" </li>
+    <p>😊</p>
+  <li><img src="https://i.imgur.com/jclsf4A.jpg"</li>
+  </ul>
+  <h2>Other recieps you can look at.</h2>
+  <ul>
+    <li><a href="https://cookpad.com/uk/recipes/4684499-ugandan-rolex">Rolex1</a></li>
+    <li><a href="https://diningforwomen.org/recipes/ugandan-rolex-rolled-eggs-tested/">Rolex2</a></li>
+<li><a href="https://nairobikitchen.blogspot.com/2017/09/ugandan-rolex.html">Rolex3</a></li>
+<li><a href="http://raebear.net/recipes/rolex.html">Rolex4</a></li>
+<li><a href="https://www.asdagoodliving.co.uk/food/recipes/ugandan-vegetable-rolex">Rolex5</a></li>
+  </ul>
